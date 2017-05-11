@@ -9,5 +9,6 @@ echo 'tttttttttttttttttttt';
 
 
 echo 'branch:testnew1'
+echo 'new changed found';
 
 echo '///////////////////////////';
